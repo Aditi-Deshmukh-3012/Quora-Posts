@@ -1,6 +1,3 @@
-# Quora-Posts
-A simple Quora-like web app built with Express.js and EJS, supporting full CRUD operations without a database.
-
 # Quora Posts
 
 A minimalistic web application that simulates the core functionality of Quora. Users can create, read, update, and delete posts. This project uses Express.js with EJS templating and Bootstrap for styling. Note: No database is used; posts are stored in memory.
